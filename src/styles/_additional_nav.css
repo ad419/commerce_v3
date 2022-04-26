@@ -1,0 +1,12 @@
+.additional_navbar {
+  background-color: #232f3e;
+  color: aliceblue;
+}
+
+.nav_list {
+  display: flex;
+  gap: 1.7rem;
+  list-style: none;
+  padding: 0.6rem;
+  margin-left: 1rem;
+}

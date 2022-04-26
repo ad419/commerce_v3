@@ -1,0 +1,22 @@
+.container_section {
+  display: flex;
+  justify-content: center;
+}
+
+.banner {
+  width: 80% !important;
+  display: inline-block !important;
+}
+
+.h {
+  height: 500px;
+}
+
+@media (max-width: 960px) {
+  .banner {
+    width: 100% !important;
+  }
+  .h {
+    height: 100%;
+  }
+}
